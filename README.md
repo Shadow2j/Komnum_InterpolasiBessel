@@ -40,6 +40,7 @@ class InterpolationSolver:
         self.h = self.x_values[1] - self.x_values[0]
         self.delta = self._calculate_delta()
 ```
+Fungsi __init__() akan menerima data berisi pasangan x: f(x) lalu akan disimpan, diurutkan berdasarkan x, menghitung jarak antar titik, dan membentuk tabel delta(selisih).
 
 #### b. Fungsi `_calculate_delta()`
 
