@@ -131,7 +131,7 @@ def bessel_terms(x, x0, h, f0, delta_f0, delta2_f, delta3_f_minus1, delta4_f0, f
 
 Menghitung nilai interpolasi Bessel dengan rumus:
 
-- f(x) = f₀ + sΔf₀ + [(s(s-1))/2]Δ²f_avg + (1/3) * [(s(s - 1)/2)](x-0.5)Δ³f₋₁ + [s(s-1)(s-2)(s-3)/4!)Δ⁴f_avg
+- f(x) = f₀ + sΔf₀ + [(s(s-1))/2]Δ²f_avg + (1/3) * [(s(s - 1)/2)] *(x-0.5)Δ³f₋₁ + [s(s-1)(s-2)(s-3)/4!)Δ⁴f_avg
 - Program sudah menghitung semua bagian rumus sehingga hanya perlu ditambahkan saja semua terms.
 
 ---
