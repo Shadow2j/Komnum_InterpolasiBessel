@@ -167,7 +167,7 @@ t1, t2, t3, t4, t5, result, error = bessel_terms(
 )
 
 print(f"Interpolasi f({x}) = {result}")
-print(f"Galat relatif = {error:.4f}%")
+print(f"ET= {error:.4f}%")
 ```
 
 ---
@@ -177,6 +177,7 @@ print(f"Galat relatif = {error:.4f}%")
 - Tabel selisih (dari Δ hingga Δ⁴)
 - Hasil pendekatan interpolasi f(x)
 - Galat relatif dibandingkan dengan nilai aktual
+![image](https://github.com/user-attachments/assets/df498493-1a85-4105-a6a6-fc73ad8a1ddd)
 
 ---
 
