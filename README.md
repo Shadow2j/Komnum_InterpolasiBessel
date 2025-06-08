@@ -2,10 +2,10 @@
 
 | Nama                          | NRP         |
 |-------------------------------|-------------|
+| Justin Valentino              | 5025241234  |
 | Al Jad Kaukabudduri Hardianto | 5025241248  |
 | Naufal Nararya                | 5025241251  |
 | Raymond Julius Pardosi        | 5025241268  |
-| Justin Valentino              | 5025241234  |
 
 
 # Interpolasi Bessel dengan Python
